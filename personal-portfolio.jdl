@@ -1,0 +1,66 @@
+
+entity PersonalDetails{
+	names String required,
+	slug TextBlob required,
+	email String required,
+	phoneNumber String
+}
+
+entity SocialMedia{
+	username String required,
+	urlLink String required,
+	published Boolean required
+}
+
+entity Project{
+	title String required,
+	slug TextBlob required
+}
+
+entity Gallery{
+	galleryName String required,
+	slug TextBlob,
+    photo ImageBlob
+}
+
+entity WorkExperience{
+	title String required,
+	employer String required,
+	startDate Instant required
+	endDate Instant
+	roles TextBlob required
+}
+
+entity Education{
+	qualification String required,
+	institution String required,
+	startDate Instant required,
+	endDate Instant required,
+	slug TextBlob
+}
+
+entity Hobby{
+	slug String required
+}
+
+entity HireMeSubject{
+	subject String required
+}
+
+// Describe the relationships
+relationship ManyToOne {
+	Gallery{project(title)} to Project{gallery(galleryName)}
+}
+
+// Set pagination options
+paginate Gallery, WorkExperience, Education, Hobby with infinite-scroll
+paginate Project with pagination
+
+// Use Data Transfer Objects (DTO)
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl except PersonalDetails, Hobby, HireMeSubject
+
+// Set an angular suffix
+// angularSuffix * with mySuffix

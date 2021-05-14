@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"e",
+				"elif\telse if"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"be",
+				"HTMLBeautify"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta\t",
+				"Package Control: Install Package"
+			],
+			[
+				"apa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 105.0,
+		"history":
+		[
+			"os.getcwd()",
+			"import os",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/root/Documents/Personal/Portfolio/PersonalWebsite/app_engine/hipster"
+	],
+	"file_history":
+	[
+		"/C/Users/root/Documents/Personal/Portfolio/PersonalWebsite/app_engine/hipster/.env",
+		"/C/Users/root/Documents/Personal/Portfolio/PersonalWebsite/app_engine/personal-portfolio.sublime-project",
+		"/C/Users/root/Documents/Personal/Portfolio/PersonalWebsite/app_engine/hipster/personal-portfolio.jdl",
+		"/C/Users/root/Documents/Personal/Portfolio/macoz/How to make a web app in 12 steps (4 stages).md",
+		"/C/Users/root/Documents/Personal/Portfolio/macoz/BitBucket/app-core/src/main/java/tk/macoz/sms/models/Item.java",
+		"/C/Users/root/Classwork/kannel.conf",
+		"/C/Program Files/TIBCO/Jaspersoft Studio-6.15.0/artifacts.xml",
+		"/C/Users/root/Classwork/Books/Tech Terms.MD",
+		"/C/Users/root/Desktop/dolphin/Reminder Text files/# Reading & Researching - Technologies.MD",
+		"/C/Users/root/Desktop/dolphin/Reminder Text files/environment vars.MD",
+		"/C/Users/root/Documents/Personal/Portfolio/docker/getting-started/Jenkinsfile",
+		"/C/Users/root/Documents/Personal/Portfolio/docker/getting-started/Dockerfile",
+		"/C/Program Files/TIBCO/Jaspersoft Studio-6.15.0/Jaspersoft Studio.ini",
+		"/C/Program Files/TIBCO/Jaspersoft Studio-6.15.0/features/com.jaspersoft.studio.jre.feature_11.0.8/feature.xml",
+		"/C/Users/root/Desktop/dolphin/Reminder Text files/SMS Servers Research.MD",
+		"/C/Users/root/Desktop/WSL2-Net-Fix.ps1",
+		"/C/Users/root/Documents/ARK/TakeOver/IT1 Employment Only/AppSkeleton/response.json",
+		"/C/Users/root/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/AiOLog.txt",
+		"/C/Users/root/Classwork/FullStack/sample.schema.json",
+		"/C/Users/root/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/login/LoginActions.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/utils/Utils.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/utils/RequireAuth.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/backend/server/server/settings.py",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/index.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/App.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/dashboard/Dashboard.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/Root.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/django-react-boilerplate/frontend/src/App.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/django-react-boilerplate/frontend/src/index.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/backend/server/server/urls.py",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/backend/server/apps/accounts/urls.py",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/login/LoginReducer.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/public/manifest.json",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/signup/SignupTypes.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/Reducer.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/signup/SignupActions.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/login/LoginTypes.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/signup/SignupReducer.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/login/Login.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/components/signup/Signup.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/frontend/src/Home.js",
+		"/C/Users/root/Documents/Personal/templates-bootstraped/drf_react_redux/.gitignore",
+		"/C/Users/root/Classwork/Git_Bash_Unix_terminal/git_basic_commands.sh",
+		"/C/Users/root/Classwork/Solution.java",
+		"/C/Users/root/Documents/Personal/Portfolio/macoz/loan-app-management/loan-management-application.sublime-project",
+		"/C/Users/root/Classwork/FullStack/Angular7/product-catalogue/catalogue-core/src/app/app.component.spec.ts",
+		"/C/Users/root/Documents/ARK/TakeOver/HELB/ITMS-Entities-Local-install.sh",
+		"/C/Users/root/Documents/ARK/TakeOver/HELB/indi_pin_dtls.sql",
+		"/C/Users/root/Documents/ARK/TakeOver/HELB/src/main/resources/config/application-dev.yml",
+		"/C/Users/root/Documents/ARK/TakeOver/HELB/response.json",
+		"/C/Users/root/Classwork/FullStack/NodeJS/Express, NodeJS, Passport Authentication/passport-mongo/passport/signup.js",
+		"/C/Users/root/Classwork/FullStack/NodeJS/Express, NodeJS, Passport Authentication/passport-mongo/routes/users.js",
+		"/C/Users/root/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/xampp/htdocs/gewec.or.ke/public_html/public/js/app/controllers/ProjectsController.js",
+		"/C/xampp/htdocs/gewec.or.ke/public_html/public/views/projects.html",
+		"/C/xampp/htdocs/gewec.or.ke/public_html/public/views/login.html",
+		"/C/xampp/htdocs/gewec.or.ke/index.html",
+		"/C/xampp/htdocs/gewec.or.ke/styles.css",
+		"/C/xampp/htdocs/gewec.or.ke/app.js",
+		"/C/xampp/htdocs/gewec.or.ke/styles.scss",
+		"/C/xampp/htdocs/gewec.or.ke/public_html/public/views/partners.html",
+		"/F/Projects/eclipse-workspace/Projects/GEWEC/public_html/iga.txt",
+		"/F/Projects/Classwork/JS/Angular/learn-gulp-bower/dist/js/app/app.js",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/css/core.css",
+		"/C/Users/root/Projects/HelanguFinMan/.junkFilesFolder/apiPaths/api.json",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/main/layout.main.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/main/index.main.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/main/index.html",
+		"/C/Users/root/Projects/HelanguFinMan/junkFilesFolder/apiPaths/api.json",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/services/socket.io.service.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/400.view.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/403.view.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/404.view.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/header.view.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/views/home.view.html",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/core.client.module.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/services/menu.service.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/directives/show-errors.directive.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/services/interceptors/auth-interceptor.service.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/directives/page-title.directive.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/directives/auto-focus.directive.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/controllers/error.controller.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/controllers/header.controller.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/controllers/home.controller.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/config/core-admin.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/config/core-admin.routes.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/config/core.menus.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/config/core.route-filter.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/config/core.routes.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/app/init.js",
+		"/C/Users/root/Projects/HelanguFinMan/modules/core/app/config.js",
+		"/C/Users/root/Downloads/triple threat/Triple.Threat.2019.1080p.WEB-DL.DD5.1.H264-FGT/Triple.Threat.2019.1080p.WEB-DL.DD5.1.H264-FGT.mkv",
+		"/C/Users/root/Projects/Mine/user-management-angular/index.html",
+		"/C/Users/root/Projects/Mine/app-main/config/config.js",
+		"/C/Users/root/macoz/apache/conf/original/httpd.conf",
+		"/C/Users/root/macoz/apache/conf/httpd.conf_backup.conf",
+		"/C/Users/root/macoz/apache/conf/httpd.conf",
+		"/C/Users/root/macoz/apache/conf/httpd.20200602.bak.conf",
+		"/C/Users/root/macoz/apache/conf/httpd.bak.conf",
+		"/C/Users/root/macoz/apache/conf/httpd20200602.bak.conf",
+		"/C/Users/root/macoz/apache/conf/htpd.conf",
+		"/C/Users/root/macoz/apache/conf.d/hostname.conf",
+		"/C/Users/root/macoz/apache/conf.d/ssl.conf",
+		"/C/Users/root/macoz/apache/conf.d/vhosts.conf",
+		"/C/Users/root/macoz/apache/conf.d/autoconfig.conf",
+		"/C/Users/root/macoz/apache/conf.d/hostname-ssl.conf",
+		"/C/Users/root/macoz/nginx/nginx.conf",
+		"/C/Users/root/macoz/nginx/conf.d/hostname-ssl.conf",
+		"/C/Users/root/macoz/nginx/conf.d/167.114.2.96.conf",
+		"/C/Users/root/macoz/nginx/conf.d/hostname.conf",
+		"/C/Users/root/macoz/nginx/conf.d/vhosts.conf",
+		"/C/Users/root/apache/conf/httpd.conf_backup.conf",
+		"/C/Users/root/apache/conf/httpd.bak.conf",
+		"/C/Users/root/apache/conf/httpd20200602.bak.conf",
+		"/C/Users/root/apache/conf/httpd.conf",
+		"/C/Users/root/apache/conf/httpd.conf.20200530.conf",
+		"/C/Users/root/apache/conf/httpd.conf.20200530",
+		"/C/Users/root/apache/conf/htpd.conf",
+		"/C/Users/root/Classwork/emailer/emailer/src/main/resources/application.properties",
+		"/C/Users/root/Classwork/FullStack/angular7-crud-master/src/app/employee/employee.component.ts",
+		"/C/Users/root/AppData/Roaming/npm/node_modules/@angular/cli/node_modules/@angular-devkit/architect/node/node-modules-architect-host.js",
+		"/C/Users/root/Classwork/FullStack/angular7-crud-master/.gitignore",
+		"/C/Users/root/Classwork/FullStack/angular7-crud-master/src/app/employee/employee.component.html",
+		"/C/Users/root/Classwork/FullStack/angular7-crud-master/src/app/app.component.html",
+		"/C/Users/root/Classwork/FullStack/angular7-crud-master/src/browserslist"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-portfolio.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
