@@ -35,6 +35,39 @@ export const Home = props => (
   </NavItem>
 );
 
+export const Projects = props => (
+  <NavItem>
+    <NavLink tag={Link} to="/projects" className="d-flex align-items-center">
+      <FontAwesomeIcon icon="code" />
+      <span>
+        &nbsp;
+        <Translate contentKey="global.menu.projects">Projects</Translate>
+      </span>
+    </NavLink>
+  </NavItem>
+);
+export const HireMe = props => (
+  <NavItem>
+    <NavLink tag={Link} to="/hire-me" className="d-flex align-items-center">
+      <FontAwesomeIcon icon={['fas', 'envelope-open']} />
+      <span>
+        &nbsp;
+        <Translate contentKey="global.menu.hireMe">Hire Me</Translate>
+      </span>
+    </NavLink>
+  </NavItem>
+);
+export const Cv = props => (
+  <NavItem>
+    <NavLink tag={Link} to="/cv" className="d-flex align-items-center">
+      <FontAwesomeIcon icon={['fas', 'file-certificate']} />
+      <span>
+        &nbsp;
+        <Translate contentKey="global.menu.cv">CV</Translate>
+      </span>
+    </NavLink>
+  </NavItem>
+);
 export const ContactMe = props => (
   <NavItem>
     <NavLink tag={Link} to="/contact-me" className="d-flex align-items-center">

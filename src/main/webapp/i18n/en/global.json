@@ -5,6 +5,9 @@
     "menu": {
       "home": "Home",
       "contact-me": "Contact me",
+      "projects": "Projects",
+      "hireMe": "Hire Me",
+      "cv": "Cv",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",

@@ -45,8 +45,7 @@ export const Home = (props: IHomeProp) => {
           <div className="container">
             <div className="text-center justify-content-center align-items-center content">
               <h3>Like what you see?</h3>
-              <br />
-              <a href="/contact-me" className="btn btn-outline-primary btn-lg" type="button">
+              <a href="/contact-me" className="btn btn-outline-primary" type="button">
                 Hire me
               </a>
             </div>

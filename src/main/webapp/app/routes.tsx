@@ -1,3 +1,6 @@
+import Projects from 'app/modules/projects/projects';
+import HireMe from 'app/modules/hire-me/hire-me';
+import Cv from 'app/modules/cv/cv';
 import React from 'react';
 import { Switch } from 'react-router-dom';
 import Loadable from 'react-loadable';
@@ -29,6 +32,9 @@ const Routes = () => {
   return (
     <div className="view-routes">
       <Switch>
+        <ErrorBoundaryRoute path="/cv" exact component={Cv} />
+        <ErrorBoundaryRoute path="/hire-me" exact component={HireMe} />
+        <ErrorBoundaryRoute path="/projects" exact component={Projects} />
         <ErrorBoundaryRoute path="/login" component={Login} />
         <ErrorBoundaryRoute path="/logout" component={Logout} />
         <ErrorBoundaryRoute path="/account/register" component={Register} />

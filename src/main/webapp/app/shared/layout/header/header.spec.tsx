@@ -7,6 +7,9 @@ import { createMemoryHistory } from 'history';
 import sinon from 'sinon';
 
 import initStore from 'app/config/store';
+import { Projects } from 'app/shared/layout/header/header-components';
+import { HireMe } from 'app/shared/layout/header/header-components';
+import { Cv } from 'app/shared/layout/header/header-components';
 import Header from './header';
 
 describe('Header', () => {
@@ -103,6 +106,24 @@ describe('Header', () => {
     expect(html).toContain('account-menu');
   });
 
+  it('Renders Projects component.', () => {
+    const html = wrapper(prodProps);
+    expect(html).toMatchSnapshot();
+    expect(html).toContain('projects');
+    expect(html).toContain('hand-spock');
+  });
+  it('Renders HireMe component.', () => {
+    const html = wrapper(prodProps);
+    expect(html).toMatchSnapshot();
+    expect(html).toContain('hire-me');
+    expect(html).toContain('hand-spock');
+  });
+  it('Renders Cv component.', () => {
+    const html = wrapper(prodProps);
+    expect(html).toMatchSnapshot();
+    expect(html).toContain('cv');
+    expect(html).toContain('hand-spock');
+  });
   it('Renders a Header component in prod profile with no logged in User', () => {
     const html = wrapper(guestProps);
 
