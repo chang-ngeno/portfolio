@@ -26,9 +26,15 @@ export const Bio = (/* props: IBioProps */) => {
             Hello! I work as a software developer. I have passion for well organized, documented and clean code. Profficient in Java, Spring
             , AngularJS, React, Node.js, &amp; Hibernate.
           </p>
-          <a className="btn btn-outline-primary" role="button" href="https://twitter.com/changmasajr">
+          <a
+            className="btn btn-outline-primary"
+            role="button"
+            href="https://twitter.com/changmasajr"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             {' '}
-            <FontAwesomeIcon icon="twitter" /> Follow Me
+            <FontAwesomeIcon icon={['fab', 'twitter']} /> Follow Me
           </a>
         </div>
       </div>

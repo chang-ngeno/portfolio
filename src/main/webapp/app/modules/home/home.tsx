@@ -19,23 +19,22 @@ export const Home = (props: IHomeProp) => {
               <span className="hipster rounded" />
             </Col> */}
       <Col md="12">
-        <div className="d-md-none" style={{ marginTop: '3.0em' }}></div>
         <Bio />
         <section className="portfolio-block photography">
           <div className="container text-center">
             <div className="row no-gutters">
               <div className="col-md-6 col-lg-4 item zoom-on-hover">
-                <a href="#">
+                <a href="">
                   <img className="img-fluid image" src="/assets/img/tech/image5.jpg" />
                 </a>
               </div>
               <div className="col-md-6 col-lg-4 item zoom-on-hover">
-                <a href="#">
+                <a href="">
                   <img className="img-fluid image" src="/assets/img/tech/image2.jpg" />
                 </a>
               </div>
               <div className="col-md-6 col-lg-4 item zoom-on-hover">
-                <a href="#">
+                <a href="">
                   <img className="img-fluid image" src="/assets/img/tech/image4.jpg" />
                 </a>
               </div>
