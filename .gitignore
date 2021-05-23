@@ -65,6 +65,7 @@ local.properties
 *.orig
 classes/
 out/
+.editorconfig
 
 ######################
 # Visual Studio Code
@@ -151,3 +152,7 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+!personal-portfolio.jdl
+personal-portfolio.sublime-workspace
+personal-portfolio.sublime-project

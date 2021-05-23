@@ -1,0 +1,24 @@
+{
+  "portfolioApp": {
+    "hobby": {
+      "home": {
+        "title": "Hobbies",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Hobby erstellen",
+        "createOrEditLabel": "Hobby erstellen oder bearbeiten",
+        "notFound": "Keine Hobbies gefunden"
+      },
+      "created": "Hobby erstellt mit ID {{ param }}",
+      "updated": "Hobby aktualisiert mit ID {{ param }}",
+      "deleted": "Hobby gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Hobby {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Hobby"
+      },
+      "id": "ID",
+      "slug": "Slug"
+    }
+  }
+}

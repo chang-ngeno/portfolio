@@ -1,0 +1,24 @@
+{
+  "portfolioApp": {
+    "hobby": {
+      "home": {
+        "title": "Hobbies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Hobby",
+        "createOrEditLabel": "Create or edit a Hobby",
+        "notFound": "No Hobbies found"
+      },
+      "created": "A new Hobby is created with identifier {{ param }}",
+      "updated": "A Hobby is updated with identifier {{ param }}",
+      "deleted": "A Hobby is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Hobby {{ id }}?"
+      },
+      "detail": {
+        "title": "Hobby"
+      },
+      "id": "ID",
+      "slug": "Slug"
+    }
+  }
+}

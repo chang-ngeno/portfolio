@@ -34,13 +34,15 @@
     "enableSwaggerCodegen": false,
     "clientFramework": "react",
     "withAdminUi": true,
-    "clientTheme": "lux",
+    "clientTheme": "yeti",
     "clientThemeVariant": "primary",
     "enableTranslation": true,
     "nativeLanguage": "en",
     "packageFolder": "io/changsoft/portfolio",
     "jwtSecretKey": "YWM1ODFiNWNlNWMwOTk1MGI2YmVkZTdjYjlmNDc0OTA0ZGM3NDQzMjI2ZDk1MDQzYTNkM2Y0NjUzNjNiN2U1NGY5ZjYyY2FkMDJkZGVkNmZiYTJlYzgwZWJkOWQzYTZlY2Q2ZmUwZmFmOGIzNjk0MjYzM2Q5OTNhMWI5NTkyMTg=",
     "clientPackageManager": "npm",
-    "languages": ["en", "fr", "de", "es"]
+    "languages": ["en", "fr", "de", "es"],
+    "entities": ["PersonalDetails", "SocialMedia", "Project", "Gallery", "WorkExperience", "Education", "Hobby", "HireMeSubject"],
+    "lastLiquibaseTimestamp": 1621022251000
   }
 }

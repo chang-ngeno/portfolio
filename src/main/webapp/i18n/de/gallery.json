@@ -1,0 +1,27 @@
+{
+  "portfolioApp": {
+    "gallery": {
+      "home": {
+        "title": "Galleries",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Gallery erstellen",
+        "createOrEditLabel": "Gallery erstellen oder bearbeiten",
+        "notFound": "Keine Galleries gefunden"
+      },
+      "created": "Gallery erstellt mit ID {{ param }}",
+      "updated": "Gallery aktualisiert mit ID {{ param }}",
+      "deleted": "Gallery gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Gallery {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Gallery"
+      },
+      "id": "ID",
+      "galleryName": "Gallery Name",
+      "slug": "Slug",
+      "photo": "Photo",
+      "project": "Project"
+    }
+  }
+}

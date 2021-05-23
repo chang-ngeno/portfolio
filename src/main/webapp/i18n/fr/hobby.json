@@ -1,0 +1,24 @@
+{
+  "portfolioApp": {
+    "hobby": {
+      "home": {
+        "title": "Hobbies",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Hobby",
+        "createOrEditLabel": "Créer ou éditer un Hobby",
+        "notFound": "Aucun Hobby trouvé"
+      },
+      "created": "Un nouveau Hobby a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Hobby avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Hobby avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Hobby {{ id }} ?"
+      },
+      "detail": {
+        "title": "Hobby"
+      },
+      "id": "ID",
+      "slug": "Slug"
+    }
+  }
+}

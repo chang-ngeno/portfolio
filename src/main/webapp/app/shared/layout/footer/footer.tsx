@@ -7,10 +7,11 @@ import { Col, Row } from 'reactstrap';
 const Footer = props => (
   <div className="footer page-content">
     <Row>
+      <Col xs="none" md="12">
+        <span>Only Visible on big screens</span>
+      </Col>
       <Col md="12">
-        <p>
-          <Translate contentKey="footer">Your footer</Translate>
-        </p>
+        <p>Copyright &copy; {new Date().getFullYear()}</p>
       </Col>
     </Row>
   </div>

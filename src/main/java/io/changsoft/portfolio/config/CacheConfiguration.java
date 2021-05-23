@@ -48,6 +48,15 @@ public class CacheConfiguration {
             createCache(cm, io.changsoft.portfolio.domain.User.class.getName());
             createCache(cm, io.changsoft.portfolio.domain.Authority.class.getName());
             createCache(cm, io.changsoft.portfolio.domain.User.class.getName() + ".authorities");
+            createCache(cm, io.changsoft.portfolio.domain.PersonalDetails.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.SocialMedia.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.Project.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.Project.class.getName() + ".galleries");
+            createCache(cm, io.changsoft.portfolio.domain.Gallery.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.WorkExperience.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.Education.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.Hobby.class.getName());
+            createCache(cm, io.changsoft.portfolio.domain.HireMeSubject.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

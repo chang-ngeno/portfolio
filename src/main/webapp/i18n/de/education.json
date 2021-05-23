@@ -1,0 +1,28 @@
+{
+  "portfolioApp": {
+    "education": {
+      "home": {
+        "title": "Educations",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Education erstellen",
+        "createOrEditLabel": "Education erstellen oder bearbeiten",
+        "notFound": "Keine Educations gefunden"
+      },
+      "created": "Education erstellt mit ID {{ param }}",
+      "updated": "Education aktualisiert mit ID {{ param }}",
+      "deleted": "Education gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Education {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Education"
+      },
+      "id": "ID",
+      "qualification": "Qualification",
+      "institution": "Institution",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "slug": "Slug"
+    }
+  }
+}

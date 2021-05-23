@@ -16,8 +16,8 @@ services:
       - 127.0.0.1:8080:8080
   portfolio-postgresql:
     image: postgres:13.2
-    # volumes:
-    #   - ~/volumes/jhipster/portfolio/postgresql/:/var/lib/postgresql/data/
+    volumes:
+      - ~/volumes/jhipster/portfolio/postgresql/:/var/lib/postgresql/data/
     environment:
       - POSTGRES_USER=portfolio
       - POSTGRES_PASSWORD=

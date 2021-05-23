@@ -1,0 +1,28 @@
+{
+  "portfolioApp": {
+    "workExperience": {
+      "home": {
+        "title": "Work Experiences",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Work Experience",
+        "createOrEditLabel": "Crear o editar Work Experience",
+        "notFound": "Ningún Work Experiences encontrado"
+      },
+      "created": "Un nuevo Work Experience ha sido creado con el identificador {{ param }}",
+      "updated": "Un Work Experience ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Work Experience ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Work Experience {{ id }}?"
+      },
+      "detail": {
+        "title": "Work Experience"
+      },
+      "id": "ID",
+      "title": "Title",
+      "employer": "Employer",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "roles": "Roles"
+    }
+  }
+}

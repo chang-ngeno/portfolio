@@ -1,0 +1,27 @@
+{
+  "portfolioApp": {
+    "personalDetails": {
+      "home": {
+        "title": "Personal Details",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Personal Details",
+        "createOrEditLabel": "Crear o editar Personal Details",
+        "notFound": "Ningún Personal Details encontrado"
+      },
+      "created": "Un nuevo Personal Details ha sido creado con el identificador {{ param }}",
+      "updated": "Un Personal Details ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Personal Details ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Personal Details {{ id }}?"
+      },
+      "detail": {
+        "title": "Personal Details"
+      },
+      "id": "ID",
+      "names": "Names",
+      "slug": "Slug",
+      "email": "Email",
+      "phoneNumber": "Phone Number"
+    }
+  }
+}

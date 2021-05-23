@@ -1,0 +1,24 @@
+{
+  "portfolioApp": {
+    "hireMeSubject": {
+      "home": {
+        "title": "Hire Me Subjects",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Hire Me Subject",
+        "createOrEditLabel": "Create or edit a Hire Me Subject",
+        "notFound": "No Hire Me Subjects found"
+      },
+      "created": "A new Hire Me Subject is created with identifier {{ param }}",
+      "updated": "A Hire Me Subject is updated with identifier {{ param }}",
+      "deleted": "A Hire Me Subject is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Hire Me Subject {{ id }}?"
+      },
+      "detail": {
+        "title": "Hire Me Subject"
+      },
+      "id": "ID",
+      "subject": "Subject"
+    }
+  }
+}
